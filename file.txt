@@ -1,2 +1,4 @@
 this is file .txt
 Add login feature
+
+Fixed Bug
